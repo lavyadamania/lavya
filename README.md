@@ -1,5 +1,4 @@
 <!-- README: Lavya Damania -->
-
 <!-- Typing header: ALL CAPS first line, Montserrat Bold, underline via <ins> -->
 <h1 align="center" style="margin:0;">
   <a href="https://git.io/typing-svg" style="text-decoration:none;">
@@ -14,7 +13,8 @@
 
 ---
 
-## 🛠️ Professional Skills
+## 🛠 Professional Skills
+<!-- Uniform sizing: width/height = 80 to keep a consistent grid -->
 <table align="center">
   <tr>
     <td align="center" valign="top">
@@ -111,6 +111,7 @@
 ---
 
 ## 🎨 Personal Hobbies
+<!-- All icons sized identically; CapCut switched to a reliable SVG source -->
 <table align="center">
   <tr>
     <td align="center" valign="top">
@@ -156,6 +157,7 @@
     <td align="center" valign="top">
       <a href="https://www.capcut.com/">
         <div>
+          <!-- Reliable CapCut SVG source -->
           <img src="https://www.vectorlogo.zone/logos/bytedance_capcut/bytedance_capcut-icon.svg" alt="CapCut" width="80" height="80"><br>
           <span>CapCut</span>
         </div>
