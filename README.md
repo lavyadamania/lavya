@@ -14,10 +14,10 @@
 ---
 
 ## 🛠 Professional Skills
-<!-- Uniform sizing: width/height = 80 to keep a consistent grid -->
+<!-- Uniform icon canvas via explicit width/height on every image -->
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://www.cprogramming.com/">
         <div>
           <img src="https://img.icons8.com/color/96/c-programming.png" alt="C" width="80" height="80"><br>
@@ -25,7 +25,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://isocpp.org/">
         <div>
           <img src="https://img.icons8.com/color/96/c-plus-plus-logo.png" alt="C++" width="80" height="80"><br>
@@ -33,7 +33,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://www.java.com/">
         <div>
           <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="Java" width="80" height="80"><br>
@@ -41,7 +41,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://www.python.org/">
         <div>
           <img src="https://img.icons8.com/color/96/python.png" alt="Python" width="80" height="80"><br>
@@ -49,7 +49,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <div>
           <img src="https://img.icons8.com/color/96/javascript.png" alt="JavaScript" width="80" height="80"><br>
@@ -57,7 +57,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <div>
           <img src="https://img.icons8.com/color/96/html-5.png" alt="HTML" width="80" height="80"><br>
@@ -65,7 +65,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <div>
           <img src="https://img.icons8.com/color/96/css3.png" alt="CSS" width="80" height="80"><br>
@@ -73,7 +73,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://www.mysql.com/">
         <div>
           <img src="https://img.icons8.com/color/96/mysql-logo.png" alt="MySQL" width="80" height="80"><br>
@@ -81,7 +81,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://git-scm.com/">
         <div>
           <img src="https://img.icons8.com/color/96/git.png" alt="Git" width="80" height="80"><br>
@@ -89,7 +89,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://github.com/">
         <div>
           <img src="https://img.icons8.com/ios-glyphs/96/github.png" alt="GitHub" width="80" height="80"><br>
@@ -97,7 +97,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="110">
       <a href="https://code.visualstudio.com/">
         <div>
           <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" alt="VS Code" width="80" height="80"><br>
@@ -111,10 +111,10 @@
 ---
 
 ## 🎨 Personal Hobbies
-<!-- All icons sized identically; CapCut switched to a reliable SVG source -->
+<!-- CapCut uses a reliable SVG; every icon set to 80x80 for identical visual size -->
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.adobe.com/products/photoshop.html">
         <div>
           <img src="https://img.icons8.com/color/96/adobe-photoshop.png" alt="Photoshop" width="80" height="80"><br>
@@ -122,7 +122,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.adobe.com/products/illustrator.html">
         <div>
           <img src="https://img.icons8.com/color/96/adobe-illustrator.png" alt="Illustrator" width="80" height="80"><br>
@@ -130,7 +130,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.adobe.com/products/aftereffects.html">
         <div>
           <img src="https://img.icons8.com/color/96/adobe-after-effects.png" alt="After Effects" width="80" height="80"><br>
@@ -138,7 +138,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.adobe.com/products/premiere.html">
         <div>
           <img src="https://img.icons8.com/color/96/adobe-premiere-pro.png" alt="Premiere Pro" width="80" height="80"><br>
@@ -146,7 +146,7 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.canva.com/">
         <div>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="80" height="80"><br>
@@ -154,10 +154,10 @@
         </div>
       </a>
     </td>
-    <td align="center" valign="top">
+    <td align="center" valign="top" width="130">
       <a href="https://www.capcut.com/">
         <div>
-          <!-- Reliable CapCut SVG source -->
+          <!-- Reliable CapCut SVG icon -->
           <img src="https://www.vectorlogo.zone/logos/bytedance_capcut/bytedance_capcut-icon.svg" alt="CapCut" width="80" height="80"><br>
           <span>CapCut</span>
         </div>
